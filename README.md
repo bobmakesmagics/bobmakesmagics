@@ -7,9 +7,6 @@
 
 - 💬 Ask me about **JavaScript, React, Next.js, Blockchain**
 
-- 📫 How to reach me **wildhorse1012@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
